@@ -8,7 +8,6 @@
 
 </p>
 
-https://user-images.githubusercontent.com/103126242/200236245-ccdd1e8b-0140-41af-827d-02c1283cb31b.mp4
 
 
 # Third Delivery Update 
