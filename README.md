@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Street Harassment Proyect - Data Structures and Algorithms I
+  Street Harassment Project - Data Structures and Algorithms I
   <br>
 </h1>
 
