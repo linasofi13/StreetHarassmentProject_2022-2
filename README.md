@@ -28,7 +28,7 @@
 
 Both technical report and for this delivery have been added to the third delivery folder
 
-## How does this Proyect work ?
+## How does this Project work ?
 
 Code files are divided in 3 files: 
 
