@@ -26,7 +26,7 @@
 
 ### Technical Report and Slides
 
-Both technical report and for this delivery have been added to the third delivery folder
+Both technical report and slides for this delivery have been added to the third delivery folder
 
 ## How does this Project work ?
 
